@@ -1,4 +1,5 @@
 ## Laura Chan
+***
 
 I am a *Junior Full-Stack Developer*. My background combines a fascination for technology, strong communication skills and a hunger for learning.
 
@@ -7,6 +8,7 @@ After graduating from university in 2016, I worked as a technology PR consultant
 I recently completed an intensive 12-week course on software engineering at Makers Academy. Here, I have grown from an amateur coder into a confident junior developer.
 
 Now, I am looking for a job where I can contribute my enthusiasm for good technology. I would like a role which encourages me to work on my own initiative, challenges me with real, interesting problems and pushes me to learn more about full-stack development.
+***
 
 ## Skills
 
@@ -32,6 +34,7 @@ Now, I am looking for a job where I can contribute my enthusiasm for good techno
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
 #### Communication Skills
+***
 
 ## Experience
 
@@ -42,6 +45,7 @@ Now, I am looking for a job where I can contribute my enthusiasm for good techno
 **Racepoint Global, London** (Sep 2016 - Apr 2017)   
 *Junior Account Executive*  
 - Worked on a variety of business and consumer accounts, including Huawei Consumer Business Group (mobile handsets), Coalfire Systems (cyber security compliance services), Conviva (OTT streaming intelligence) and Newforma (project management software)
+***
 
 ## Education
 
@@ -60,6 +64,7 @@ Now, I am looking for a job where I can contribute my enthusiasm for good techno
 #### University College, London (Sep 2012 - Jun 2015)
 
 - Classics BA (First Class)
+***
 
 ## Interests
 
@@ -70,7 +75,5 @@ Now, I am looking for a job where I can contribute my enthusiasm for good techno
 - I play flute, piano, and percussion
 - In 2012, I passed my flute ABRSM Diploma exam with distinction.
 - I write a blog on new music. See www.soyamilkmixtapes.wordpress.com
-
-
-
+***
 ## Contact
