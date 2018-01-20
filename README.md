@@ -1,6 +1,10 @@
-## Your Name
+## Laura Chan
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a *Junior Full-Stack Developer*.
+
+I graduated from university in 2016 and worked as a technology PR consultant for one year after that. Although I was a tech fan for a long, it was here that I was exposed to the business of technology. Not only that, as a PR I became adept at clear communication.
+
+To find out more about my decision to go into coding, read my blogpost entitled (Why I changed tack in my career and started coding)[https://medium.com/@lwkchan/why-i-changed-tack-in-my-career-and-started-coding-ea6a8bcd0b4a].
 
 ## Skills
 
@@ -23,28 +27,25 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+#### Makers Academy (Jan 2018 - Apr 2018)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### King's College, London (Sep 2015 - Jun 2016)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Philosophy MA (Pass with Merit)
+- Dissertation on the fundamental right to Internet access
 
-#### Any other qualifications
+#### University College, London (Sep 2012 - Jun 2015)
+
+- Classics BA (First Class)
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Marlin PR, London** (May 2017 - Dec 2017)    
+*Account Executive*  
+**Racepoint Global, London** (Sep 2016 - Apr 2017)   
+*Junior Account Executive*  
