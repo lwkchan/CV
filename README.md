@@ -24,7 +24,6 @@ always learning new things
 ### Natural problem-solver
 
 #### Works well under pressure
-blablabla being in PR #agency lyf
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
