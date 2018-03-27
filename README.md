@@ -13,7 +13,7 @@
 I am an aspiring *Junior Full-Stack Developer* with a background in PR, media and academic Philosophy. I love coding because I get to build meaningful tools, solve challenging problems and never stop learning!
 
 ## Background
-After graduating university in 2016, I worked as a technology PR consultant. Although successful, a love for technology and the idea of problem-solving motivated me to learn programming. *To find out more, read my blogpost entitled '[Why I changed tack in my career and started coding](https://medium.com/@lwkchan/why-i-changed-tack-in-my-career-and-started-coding-ea6a8bcd0b4a)'.*
+After graduating university in 2016, I worked as a technology PR consultant. Although successful there, a love for technology beyond simply communicating it and the idea of problem-solving motivated me to learn programming. *To find out more, read my blogpost entitled '[Why I changed tack in my career and started coding](https://medium.com/@lwkchan/why-i-changed-tack-in-my-career-and-started-coding-ea6a8bcd0b4a)'.*
 
 Having recently graduated from Makers Academy, I am now looking for a job where I can contribute my enthusiasm for good technology and clean coding practices. I would like a role which encourages me to work on my own initiative, challenges me with meaningful problems and encourages continuous learning.
 
@@ -25,27 +25,27 @@ TBC
 ## Skills
 
 #### Learner
-It's never about the end goal of mastering something. Rather, I am energised by the process of learning new skills and subjects - hence the varying university degrees of Classics and Philosophy.
+It's never about the end goal of mastering something. Rather, I am energised by the process of learning new skills and subjects I enjoy challenging myself with new topics and new ways of learning - hence the varying university degrees of Classics and Philosophy.
 
 #### Problem-solver
-I have enjoyed working with logic for as long as I can remember. While studying Philosophy, I fell in love with Logic, the language at the base of all languages. I was fascinated with how its basic properties combined to create greater meaning.
+I have enjoyed analysing logical systems for as long as I can remember. I was drawn to Classics as an undergraduate for the way the Latin language works; how its words and grammar fit together to generate meaning. While studying Philosophy, I fell in love with Logic, the language at the base of all languages. I was fascinated with how its basic properties combined to create greater meaning.
 
 #### Communication
-PR and Philosophy have developed a habit for clear communication. I enjoy the challenge of breaking down complex ideas into simple concepts and the process of teaching others. I [blog](https://medium.com/@lwkchan) as well.
+PR and Philosophy have developed my personal habit for clear communication. I enjoy the challenge of breaking down complex ideas into simple concepts and the process of teaching others.
 
 #### Stakeholder Management
-As a PR executive, I worked with clients daily to ensure campaigns were delivered to their high standards. I collaborated with clients on PR campaigns and managed their expectations on what we could deliver.
+As a PR executive, I worked with clients daily to ensure campaigns were delivered to their high standards. I collaborated with clients on campaigns and managed their expectations on what we could deliver.
 
 
 ## Work Experience
 
 **Marlin PR, London** (May 2017 - Dec 2017)    
 *Account Executive*
-- Worked on multiple corporate and business accounts, including Sony Professional (audiovisual solutions), Slack (cloud-based collaboration tool), Alteryx (data analytics) and RhythmOne (programmatic advertising)
+- Worked on multiple corporate and business accounts, including *Sony Professional* (audiovisual solutions), *Slack* (cloud-based collaboration tool), *Alteryx* (data analytics) and *RhythmOne* (programmatic advertising)
 
 **Racepoint Global, London** (Sep 2016 - Apr 2017)   
 *Junior Account Executive*  
-- Worked on a variety of business and consumer accounts, including Huawei Consumer Business Group (mobile handsets), Coalfire Systems (cyber security compliance), Conviva (OTT streaming intelligence) and Newforma (project management software)
+- Worked on a variety of business and consumer accounts, including *Huawei Consumer Business Group* (mobile handsets), *Coalfire Systems* (cyber security compliance), *Conviva* (OTT streaming intelligence) and *Newforma* (project management software)
 
 ## Education
 
