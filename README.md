@@ -13,7 +13,7 @@
 I am an aspiring *Junior Full-Stack Developer* who has just graduated from Makers Academy. I have a background in PR, media and academic Philosophy. I love coding because I get to build meaningful tools, solve challenging problems and never stop learning!
 
 ## Background
-After graduating university in 2016, I worked as a technology PR consultant. Although successful there, a love for technology beyond simply communicating it and the idea of problem-solving motivated me to learn programming. *To find out more, read my blogpost entitled '[Why I changed tack in my career and started coding](https://medium.com/@lwkchan/why-i-changed-tack-in-my-career-and-started-coding-ea6a8bcd0b4a)'.*
+After graduating from university in 2016, I worked as a technology PR consultant. Although successful there, a love for technology beyond simply communicating it and the idea of problem-solving motivated me to learn programming. *To find out more, read my blogpost entitled '[Why I changed tack in my career and started coding](https://medium.com/@lwkchan/why-i-changed-tack-in-my-career-and-started-coding-ea6a8bcd0b4a)'.*
 
 Having recently graduated from Makers Academy, I am now looking for a job where I can contribute my enthusiasm for good technology and clean coding practices. I would like a role which encourages me to work on my own initiative, challenges me with meaningful problems and encourages continuous learning.
 
