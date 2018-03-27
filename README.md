@@ -9,7 +9,6 @@
 </p>
 
 # Laura Chan
-***
 
 I am an aspiring *Junior Full-Stack Developer* with a background in PR, media and academic Philosophy.
 
@@ -18,7 +17,6 @@ After graduating university in 2016, I worked as a technology PR consultant. Alt
 
 Having recently graduated from Makers Academy, I am now looking for a job where I can contribute my enthusiasm for good technology and clean coding practices. I would like a role which encourages me to work on my own initiative, challenges me with meaningful problems and encourages continuous learning.
 
-***
 
 ## Projects
 
@@ -38,7 +36,6 @@ PR and Philosophy have developed a habit for clear communication. I enjoy the ch
 #### Stakeholder Management
 As a PR executive, I worked with clients daily to ensure campaigns were delivered to their high standards. I collaborated with clients on PR campaigns and managed their expectations on what we could deliver.
 
-***
 
 ## Work Experience
 
@@ -49,7 +46,6 @@ As a PR executive, I worked with clients daily to ensure campaigns were delivere
 **Racepoint Global, London** (Sep 2016 - Apr 2017)   
 *Junior Account Executive*  
 - Worked on a variety of business and consumer accounts, including Huawei Consumer Business Group (mobile handsets), Coalfire Systems (cyber security compliance), Conviva (OTT streaming intelligence) and Newforma (project management software)
-***
 
 ## Education
 
@@ -68,7 +64,6 @@ As a PR executive, I worked with clients daily to ensure campaigns were delivere
 #### University College, London (Sep 2012 - Jun 2015)
 
 - Classics BA (First Class)
-***
 
 ## Interests
 
@@ -79,4 +74,3 @@ As a PR executive, I worked with clients daily to ensure campaigns were delivere
 - I play flute, piano, and percussion
 - In 2012, I passed my flute ABRSM Diploma exam with distinction.
 - I write a blog on new music. See www.soyamilkmixtapes.wordpress.com
-***
