@@ -1,6 +1,3 @@
-# Laura Chan
-***
-
 <p align="center">
 <a href="https://twitter.com/lwkchan">
 <img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" alt="twitter" hspace="50" height="42" width="42"></a>
@@ -10,6 +7,9 @@
 <a href="https://www.linkedin.com/in/lwkchan/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 </p>
+
+# Laura Chan
+***
 
 I am an aspiring *Junior Full-Stack Developer* with a background in PR, media and academic Philosophy.
 
