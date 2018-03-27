@@ -1,39 +1,46 @@
-## Laura Chan
+# Laura Chan
 ***
 
-I am a *Junior Full-Stack Developer*. My background combines a fascination for technology, strong communication skills and a hunger for learning.
+<p align="right">
+<a href="https://twitter.com/lwkchan">
+<img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" alt="twitter" hspace="50" height="42" width="42"></a>
+<a href="https://medium.com/@lwkchan">
+<img src="https://static1.squarespace.com/static/53457bcae4b0bc890d496d14/t/568ebeee4bf118e7ef8dbef3/1452195567236/medium_logo_detail_icon.png?format=300w" alt="medium" hspace="50" height="42" width="42"></a>
 
-After graduating from university in 2016, I worked as a technology PR consultant for one year. Although successful, a love for technology beyond the communication of it motivated me to change industries. *To find out more about my career move, read my blogpost entitled '[Why I changed tack in my career and started coding](https://medium.com/@lwkchan/why-i-changed-tack-in-my-career-and-started-coding-ea6a8bcd0b4a)'.*
+<a href="https://www.linkedin.com/in/lwkchan/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+</p>
 
-I recently completed an intensive 12-week course on software engineering at Makers Academy. Here, I have grown from an amateur coder into a confident junior developer.
+I am an aspiring *Junior Full-Stack Developer* with a background in PR, media and academic Philosophy.
 
-Now, I am looking for a job where I can contribute my enthusiasm for good technology. I would like a role which encourages me to work on my own initiative, challenges me with real, interesting problems and pushes me to learn more about full-stack development.
+## Background
+After graduating university in 2016, I worked as a technology PR consultant. Although successful, a love for technology and the idea of problem-solving motivated me to learn programming. *To find out more, read my blogpost entitled '[Why I changed tack in my career and started coding](https://medium.com/@lwkchan/why-i-changed-tack-in-my-career-and-started-coding-ea6a8bcd0b4a)'.*
+
+Having recently graduated from Makers Academy, I am now looking for a job where I can contribute my enthusiasm for good technology and clean coding practices. I would like a role which encourages me to work on my own initiative, challenges me with meaningful problems and encourages continuous learning.
+
 ***
 
-### Skills
+## Projects
 
-#### Adaptable
-chanign from classics, to philosophy, to pr, to coding
+TBC
+
+## Skills
 
 #### Learner
-always learning new things
+It's never about the end goal of mastering something. Rather, I am energised by the process of learning new skills and subjects - hence the varying university degrees of Classics and Philosophy.
 
-#### Attention to detail
-- good ATD
+#### Problem-solver
+I have enjoyed working with logic for as long as I can remember. While studying Philosophy, I fell in love with Logic, the language at the base of all languages. I was fascinated with how its basic properties combined to create greater meaning.
 
-### Natural problem-solver
+#### Communication
+PR and Philosophy have developed a habit for clear communication. I enjoy the challenge of breaking down complex ideas into simple concepts and the process of teaching others. I [blog](https://medium.com/@lwkchan) as well.
 
-#### Works well under pressure
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Communication Skills
+#### Stakeholder Management
+As a PR executive, I worked with clients daily to ensure campaigns were delivered to their high standards. I collaborated with clients on PR campaigns and managed their expectations on what we could deliver.
 
 ***
 
-### Experience
+## Work Experience
 
 **Marlin PR, London** (May 2017 - Dec 2017)    
 *Account Executive*
@@ -44,7 +51,7 @@ always learning new things
 - Worked on a variety of business and consumer accounts, including Huawei Consumer Business Group (mobile handsets), Coalfire Systems (cyber security compliance), Conviva (OTT streaming intelligence) and Newforma (project management software)
 ***
 
-### Education
+## Education
 
 #### Makers Academy (Jan 2018 - Apr 2018)
 
@@ -63,14 +70,13 @@ always learning new things
 - Classics BA (First Class)
 ***
 
-### Interests
+## Interests
 
-**Rock climbing**
+#### Rock climbing
 - I was a member of the mountaineering clubs at UCL and KCL and competed in university bouldering competitions
 
-**Music**
+#### Music
 - I play flute, piano, and percussion
 - In 2012, I passed my flute ABRSM Diploma exam with distinction.
 - I write a blog on new music. See www.soyamilkmixtapes.wordpress.com
 ***
-### Contact
