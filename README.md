@@ -24,7 +24,7 @@ TBC
 
 ## Skills
 
-### Clean coder
+#### Clean coder
 During Makers Academy, I learned and practised OOP principles, such as SOLID and DRY. I also practised Extreme Programming methodologies; this has influenced the way I work with other people and has nurtured my responsibility to test-drive the code I write (TDD/BDD). I would like to work at a company which values these principles as much as I do.
 
 #### Learner
