@@ -24,24 +24,26 @@ TBC
 
 ## Skills
 
+### Clean coder
+During Makers Academy, I learned and practised OOP principles, such as SOLID and DRY. I also practised Extreme Programming methodologies; this has influenced the way I work with other people and has nurtured my responsibility to test-drive the code I write (TDD/BDD). I would like to work at a company which values these principles as much as I do.
+
 #### Learner
-It's never about the end goal of mastering something. Rather, I am energised by the process of learning new skills and subjects I enjoy challenging myself with new topics and new ways of learning - hence the varying university degrees of Classics and Philosophy.
+It's never about the end goal of mastering something. Rather, I am energised by the process of learning new skills and subjects. I enjoy challenging myself with new topics and new ways of learning - hence the varying university degrees of Classics and Philosophy, and now the move to Software Development.
 
 #### Problem-solver
-I have enjoyed analysing logical systems for as long as I can remember. I was drawn to Classics as an undergraduate for the way the Latin language works; how its words and grammar fit together to generate meaning. While studying Philosophy, I fell in love with Logic, the language at the base of all languages. I was fascinated with how its basic properties combined to create greater meaning.
+I have enjoyed analysing logical systems for as long as I can remember. I was drawn to Classics as an undergraduate for the way the Latin language works; how its syntax and grammar fit together to generate meaning. While studying Philosophy, I fell in love with Logic. I was fascinated with how basic properties combined to create greater meaning. I was then drawn to coding for its problem-solving element, and how at first seemingly impossible problems can be solved through clean coding practices.
 
 #### Communication
-PR and Philosophy have developed my personal habit for clear communication. I enjoy the challenge of breaking down complex ideas into simple concepts and the process of teaching others.
+PR and Philosophy have developed my personal habit for clear communication. In PR, I wrote press releases and bylines which clarified and explained complex technologies to the media and general public. As a Philosophy student, I became adept at breaking down and analysing the validity of arguments. As a developer, I enjoy teaching others about code and technology, whether that be explaining it to a non-techie or a fellow coder.
 
 #### Stakeholder Management
-As a PR executive, I worked with clients daily to ensure campaigns were delivered to their high standards. I collaborated with clients on campaigns and managed their expectations on what we could deliver.
-
+As a PR executive, I worked with clients daily to ensure campaigns were delivered to a high standard. I collaborated with clients on campaigns and managed their expectations on what I could deliver. I have organised and carried out press launches and media outreach campaigns throughout my PR career (i.e. sharing press releases or byline opportunities).
 
 ## Work Experience
 
 **Marlin PR, London** (May 2017 - Dec 2017)    
 *Account Executive*
-- Worked on multiple corporate and business accounts, including *Sony Professional* (audiovisual solutions), *Slack* (cloud-based collaboration tool), *Alteryx* (data analytics) and *RhythmOne* (programmatic advertising)
+- Worked on multiple corporate and business accounts, including *Sony Professional* (audiovisual solutions), *Slack* (cloud-based collaboration tool), *Alteryx* (data analytics), *Nlyte* (data centre software) and *RhythmOne* (programmatic advertising)
 
 **Racepoint Global, London** (Sep 2016 - Apr 2017)   
 *Junior Account Executive*  
