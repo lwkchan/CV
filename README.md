@@ -20,7 +20,11 @@ Having recently graduated from Makers Academy, I am now looking for a job where 
 
 ## Projects
 
-TBC
+| Project                | Description                                                                                                                                                                                          | Technologies                            | Testing                      |
+|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|------------------------------|
+| [Bombercat](https://github.com/lwkchan/bombercat)              | Week eight practice project at Makers Academy. This is a front-end JavaScript app which emulates the popular arcade game Bomberman.                                                                  | JavaScript, CreateJS, jQuery, HTML, CSS | Jasmine                      |
+| [News Summary Challenge](https://github.com/lwkchan/news-summary-challenge) | Sixth weekend challenge at Makers Academy. This program is a convenient one page app for news summaries. It gets these summaries by linking to the the Guardian API and the Aylien Text Summary APs. | JavaScript, HTML, CSS                   | Capybara, Mocha, Chai, Sinon |
+|[ Bowling Challenge](https://github.com/lwkchan/bowling-challenge)      | Fifth weekend challenge at Makers Academy This is a full-stack program which calculates the score of a bowling game.                                                                                 | JavaScript, jQuery, HTML, CSS           | Jasmine                      |
 
 ## Skills
 
@@ -34,7 +38,7 @@ It's never about the end goal of mastering something. Rather, I am energised by 
 I have enjoyed analysing logical systems for as long as I can remember. I was drawn to Classics as an undergraduate for the way the Latin language works; how its syntax and grammar fit together to generate meaning. While studying Philosophy, I fell in love with Logic. I was fascinated with how basic properties combined to create greater meaning. I was then drawn to coding for its problem-solving element, and how at first seemingly impossible problems can be solved through clean coding practices.
 
 #### Communication
-PR and Philosophy have developed my personal habit for clear communication. In PR, I wrote press releases and bylines which clarified and explained complex technologies to the media and general public. As a Philosophy student, I became adept at breaking down and analysing the validity of arguments. As a developer, I enjoy teaching others about code and technology, whether that be explaining it to a non-techie or a fellow coder.
+PR and Philosophy have developed my personal habit for clear communication. In PR, I wrote press releases and bylines which clarified and explained complex technologies to the media, internal stakeholders and the public. As a Philosophy student, I became adept at breaking down and analysing the validity of arguments. As a developer, I enjoy teaching others about code and technology, whether that be explaining it to a non-techie or a fellow coder.
 
 #### Stakeholder Management
 As a PR executive, I worked with clients daily to ensure campaigns were delivered to a high standard. I collaborated with clients on campaigns and managed their expectations on what I could deliver. I have organised and carried out press launches and media outreach campaigns throughout my PR career (i.e. sharing press releases or byline opportunities).
