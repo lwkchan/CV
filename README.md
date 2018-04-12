@@ -20,8 +20,9 @@ Having recently graduated from Makers Academy, I am now looking for a job where 
 
 ## Projects
 
-| Project                | Description                                                                                                                                                                                          | Technologies                            | Testing                      |
+| Project |Description| Technologies | Testing |
 |------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|------------------------------|
+| [Emu](https://github.com/MatthewBurstein/emu)| Weeks 11 and 12 final project at Makers Academy. We built a transpiler for a new language.|JavaScript|Jasmine|
 | [Bombercat](https://github.com/lwkchan/bombercat)              | Week eight practice project at Makers Academy. This is a front-end JavaScript app which emulates the popular arcade game Bomberman.                                                                  | JavaScript, CreateJS, jQuery, HTML, CSS | Jasmine                      |
 | [News Summary Challenge](https://github.com/lwkchan/news-summary-challenge) | Sixth weekend challenge at Makers Academy. This program is a convenient one page app for news summaries. It gets these summaries by linking to the the Guardian API and the Aylien Text Summary API. | Node.js, JavaScript, HTML, CSS                   | Capybara, Mocha, Chai, Sinon |
 |[ Bowling Challenge](https://github.com/lwkchan/bowling-challenge)      | Fifth weekend challenge at Makers Academy This is a full-stack program which calculates the score of a bowling game.                                                                                 | JavaScript, jQuery, HTML, CSS           | Jasmine                      |
