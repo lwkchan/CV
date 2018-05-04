@@ -43,7 +43,7 @@ As a PR executive, I worked with clients daily to ensure campaigns were delivere
 
 ## Work Experience
 
-**Telegraph Media Group, London** (April 2017 - Present)
+**Telegraph Media Group, London** (April 2017 - Present)    
 *Software Developer*
 
 **Marlin PR, London** (May 2017 - Dec 2017)    
