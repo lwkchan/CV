@@ -15,8 +15,6 @@ I am a software developer at the Telegraph. Besides software, I also have a back
 ## Background
 After graduating from university in 2016, I worked as a technology PR consultant. Although successful there, a deep fascination with technology and the idea of problem-solving motivated me to learn programming. *To find out more, read my blogpost entitled '[Why I changed tack in my career and started coding](https://medium.com/@lwkchan/why-i-changed-tack-in-my-career-and-started-coding-ea6a8bcd0b4a)'.* And so, I attended Makers Academy, a 12-week intensive course on software development.
 
-After this course, I was hired by the Telegraph, where I currently work.
-
 ## Projects
 
 | Project |Description| Technologies | Testing |
@@ -44,6 +42,9 @@ PR and Philosophy have developed my personal habit for clear communication. In P
 As a PR executive, I worked with clients daily to ensure campaigns were delivered to a high standard. I collaborated with clients on campaigns and managed their expectations on what I could deliver. I have organised and carried out press launches and media outreach campaigns (i.e. sharing press releases, organising interviews and managing device review programs) throughout my PR career.
 
 ## Work Experience
+
+**Telegraph Media Group, London** (April 2017 - Present)
+*Software Developer*
 
 **Marlin PR, London** (May 2017 - Dec 2017)    
 *Account Executive*
