@@ -13,7 +13,7 @@
 I am a software developer at the Telegraph. Besides software, I also have a background in PR, media and academic Philosophy. I love coding because I get to build meaningful tools, solve challenging problems and never stop learning!
 
 ## Background
-After graduating from university in 2016, I worked as a technology PR consultant. Although successful there, a deep fascination with technology and the idea of problem-solving motivated me to learn programming. *To find out more, read my blogpost entitled '[Why I changed tack in my career and started coding](https://medium.com/@lwkchan/why-i-changed-tack-in-my-career-and-started-coding-ea6a8bcd0b4a)'.* And so, I attended Makers Academy, a 12-week intensive course on software development.
+After graduating from university in 2016, I worked as a technology PR consultant. Although successful there, a deep fascination with technology and the idea of problem-solving motivated me to learn programming. (*To find out more, read my blogpost entitled '[Why I changed tack in my career and started coding](https://medium.com/@lwkchan/why-i-changed-tack-in-my-career-and-started-coding-ea6a8bcd0b4a)'.*) And so, I attended Makers Academy, a 12-week intensive course on software development, where I learned and practised principles of good software development.
 
 ## Projects
 
