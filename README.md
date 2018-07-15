@@ -43,14 +43,14 @@ As a PR executive, I worked with clients daily to ensure campaigns were delivere
 
 ## Work Experience
 
-**Telegraph Media Group, London** (April 2018 - Present)    
+**Telegraph Media Group, London (Apr 2018 - Present)**   
 *Software Developer*
 
-**Marlin PR, London** (May 2017 - Dec 2017)    
+**Marlin PR, London (May 2017 - Dec 2017)**    
 *Account Executive*
 - Worked on multiple corporate and business accounts, including *Sony Professional* (audiovisual solutions), *Slack* (cloud-based collaboration tool), *Alteryx* (data analytics), *Nlyte* (data centre software) and *RhythmOne* (programmatic advertising)
 
-**Racepoint Global, London** (Sep 2016 - Apr 2017)   
+**Racepoint Global, London (Sep 2016 - Apr 2017)**   
 *Junior Account Executive*  
 - Worked on a variety of business and consumer accounts, including *Huawei Consumer Business Group* (mobile handsets), *Coalfire Systems* (cyber security compliance), *Conviva* (OTT streaming intelligence) and *Newforma* (project management software)
 
