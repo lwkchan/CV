@@ -8,12 +8,16 @@
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 </p>
 
-# Laura Chan
+# Laura Chan :female-technologist:
 
-I am a software developer at the Telegraph. Besides software, I also have a background in PR, media and academic Philosophy. I love coding because I get to build meaningful tools, solve challenging problems and never stop learning!
+:wave: Hello. I'm a software developer with six months' professional experience in Front End, but happy to sit anywhere in the stack. Besides software, I also have a background in PR and academic Philosophy. I love coding because I get to build meaningful tools, solve challenging problems and never stop learning!
+
+:computer: I enjoy working with JavaScript and its frameworks, including React, Redux, 
 
 ## Background
-After graduating from university in 2016, I worked as a technology PR consultant. Although successful there, a deep fascination with technology and the idea of problem-solving motivated me to learn programming. (*To find out more, read my blogpost entitled '[Why I changed tack in my career and started coding](https://medium.com/@lwkchan/why-i-changed-tack-in-my-career-and-started-coding-ea6a8bcd0b4a)'.*) And so, I attended Makers Academy, a 12-week intensive course on software development, where I learned and practised principles of good software development.
+After graduating from university in 2016, I worked as a technology PR consultant. Although successful there, a deep fascination with technology and the idea of problem-solving motivated me to learn programming. (*To find out more, read my blogpost entitled '[Why I changed tack in my career and started coding](https://medium.com/@lwkchan/why-i-changed-tack-in-my-career-and-started-coding-ea6a8bcd0b4a)'.*) 
+
+And so, in April 2018, I graduated from Makers Academy's 12-week course, and soon began working at the Telegraph. There, I was part of the team maintaining telegraph.co.uk and the new myTelegraph product, a personalised newsfeed for audiences.
 
 ## Projects
 
