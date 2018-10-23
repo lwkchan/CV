@@ -7,48 +7,53 @@
 <a href="https://www.linkedin.com/in/lwkchan/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 </p>
+<a href="https://www.lwkchan.com">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+</p>
 
-# Laura Chan :female-technologist:
+# Laura Chan
 
-:wave: Hello. I'm a software developer with six months' professional experience in Front End, but happy to sit anywhere in the stack. Besides software, I also have a background in PR and academic Philosophy. I love coding because I get to build meaningful tools, solve challenging problems and never stop learning!
+:wave: Hello. I'm a software developer with six months' professional experience in front-end development. Besides software, I also have a background in PR and academic Philosophy. I love coding because I get to build meaningful tools, solve challenging problems and never stop learning!
 
-:computer: I enjoy working with JavaScript and its frameworks, including React, Redux, 
+:computer: Technologies: JavaScript (frameworks include React and Redux), Ruby (including Rails)
 
 ## Background
-After graduating from university in 2016, I worked as a technology PR consultant. Although successful there, a deep fascination with technology and the idea of problem-solving motivated me to learn programming. (*To find out more, read my blogpost entitled '[Why I changed tack in my career and started coding](https://medium.com/@lwkchan/why-i-changed-tack-in-my-career-and-started-coding-ea6a8bcd0b4a)'.*) 
+After graduating in 2016, I worked as a technology PR consultant. Although successful there, a fascination with technology and the idea of problem-solving motivated me to learn programming. (*To find out more, read my blogpost entitled '[Why I changed tack in my career and started coding](https://medium.com/@lwkchan/why-i-changed-tack-in-my-career-and-started-coding-ea6a8bcd0b4a)'.*) 
 
-And so, in April 2018, I graduated from Makers Academy's 12-week course, and soon began working at the Telegraph. There, I was part of the team maintaining telegraph.co.uk and the new myTelegraph product, a personalised newsfeed for audiences.
+And so, in April 2018, I graduated from Makers Academy's 12-week course, and began working at the Telegraph. There, I was part of the team maintaining telegraph.co.uk and the new myTelegraph product, a personalised newsfeed for audiences built in React.
 
 ## Projects
 
 | Project |Description| Technologies | Testing |
-|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|------------------------------|
+|---------|------------------|--------------|------|
+|[Personal Blog](https://github.com/lwkchan/personal-blog)| Building a blog for myself to learn more about Gatsby and headless CMSes. See live on www.lwkchan.com| GatsbyJS, React, GraphQL, Contentful | N/A |
+|[Tweep](https://github.com/lwkchan/twitter-on-cli)| A small Node app which allows you to use Twitter from the command line| NodeJS, Twitter API | Jest for unit tests; Cucumber and Aruba for feature tests|
 | [Emu](https://github.com/MatthewBurstein/emu)| Weeks 11 and 12 final project at Makers Academy. We built a transpiler for a new language.|JavaScript|Jasmine|
 | [Bombercat](https://github.com/lwkchan/bombercat)              | Week eight practice project at Makers Academy. This is a front-end JavaScript app which emulates the popular arcade game Bomberman.                                                                  | JavaScript, CreateJS, jQuery, HTML, CSS | Jasmine                      |
-| [News Summary Challenge](https://github.com/lwkchan/news-summary-challenge) | Sixth weekend challenge at Makers Academy. This program is a convenient one page app for news summaries. It gets these summaries by linking to the the Guardian API and the Aylien Text Summary API. | Node.js, JavaScript, HTML, CSS                   | Capybara, Mocha, Chai, Sinon |
-|[ Bowling Challenge](https://github.com/lwkchan/bowling-challenge)      | Fifth weekend challenge at Makers Academy This is a full-stack program which calculates the score of a bowling game.                                                                                 | JavaScript, jQuery, HTML, CSS           | Jasmine                      |
+| [News Summary Challenge](https://github.com/lwkchan/news-summary-challenge) | Sixth weekend challenge at Makers Academy. This program is a convenient one page app for news summaries. It gets these summaries by linking to the the Guardian API and the Aylien Text Summary API. | NodeJS, JavaScript, HTML, CSS                   | Capybara, Mocha, Chai, Sinon |
 
 ## Skills
 
-#### Clean coder
-At Makers Academy, I learned and practised OOP principles, such as SOLID and DRY. I also practised Extreme Programming methodologies; this has influenced the way I work with other people and has nurtured my responsibility to test-drive the code I write (TDD/BDD). I would like to work at a company which values these principles as much as I do.
+#### :computer: Clean coder
+I was first introduced to OOP principles, such as SOLID and DRY, at Makers Academy. Since then, I have practised these both when creating new projects and working on legacy code. I make sure that naming and abstraction are always thought through.
 
-#### Learner
+#### :notebook: Learner
 It's never about the end goal of mastering something. Rather, I am energised by the process of learning new skills and subjects. I enjoy challenging myself with new topics and new ways of learning - hence the varying university degrees of Classics and Philosophy, and now the move to Software Development.
 
-#### Problem-solver
+#### :bulb: Problem-solver
 I have enjoyed analysing logical systems for as long as I can remember. I was drawn to Classics as an undergraduate for the way the Latin language works; how its syntax and grammar fit together to generate meaning. While studying Philosophy, I fell in love with Logic. I was fascinated with how basic properties combined to create greater meaning. I was then drawn to coding for its problem-solving element, and how at first seemingly impossible problems can be solved through clean coding practices.
 
-#### Communication
-PR and Philosophy have developed my personal habit for clear communication. In PR, I wrote press releases and bylines which clarified and explained complex technologies to the media, internal stakeholders and the public. As a Philosophy student, I became adept at breaking down and analysing the validity of arguments. As a developer, I enjoy teaching others about code and technology, whether that be explaining it to a non-techie or a fellow coder.
+#### :speaker: Communication
+PR and Philosophy have developed my personal habit for clear communication. In PR, I wrote content which clarified and explained complex technologies to stakeholders. As a developer, I enjoy talking about code written by myself or to others. I also enjoy the challenge of speaking to non-technical stakeholders about the software I build.
 
-#### Stakeholder Management
-As a PR executive, I worked with clients daily to ensure campaigns were delivered to a high standard. I collaborated with clients on campaigns and managed their expectations on what I could deliver. I have organised and carried out press launches and media outreach campaigns (i.e. sharing press releases, organising interviews and managing device review programs) throughout my PR career.
+#### :speech_balloon: Stakeholder Management
+As a PR executive, I worked with clients daily to ensure campaigns were delivered to a high standard. I collaborated with clients on campaigns and managed their expectations on what I could deliver. This has continued into my development career, where I try to be in constant dialogue with designers, analysts and product managers to make sure that we're aligned.
 
 ## Work Experience
 
 **Telegraph Media Group, London (Apr 2018 - Present)**   
 *Software Developer*
+- Worked with front-end tools, including React, Redux and Adobe Experience Manager, to maintain telegraph.co.uk  as well as launch the new myTelegraph product to drive more audience engagement.
 
 **Marlin PR, London (May 2017 - Dec 2017)**    
 *Account Executive*
